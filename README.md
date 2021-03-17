@@ -17,3 +17,5 @@
 * `git branch` - list local branches, indicating current branch
 * `git checkout newBranch` - make `newBranch` the current branch
 * `git checkout -b otherBranch` - create and checkout `otherBranch`
+* `git config --list` - list current  git config
+* `git config --help` - list options and syntax for git config

@@ -5,3 +5,5 @@
 * `git status` - show status of working directory/repo
 * `git add` - stage changes for commit
 * `git commit -m ""` - commit staged changes to local repo
+* `git log` - list commits
+* `git log --oneline` - list commits in compact form
